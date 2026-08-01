@@ -1,5 +1,5 @@
 name: shayari_verse
-description: Instagram style ai shayari and Reels app
+description: Instagram style ai shayari and reels app
 publish_to: "none"
 
 version: 1.0.0+1
@@ -13,7 +13,7 @@ dependencies:
 
   cupertino_icons: ^1.0.8
 
-  # Supabase Backend
+  # supabase Backend
   supabase_flutter: ^2.8.0
 
   # Image & Video
