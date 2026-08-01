@@ -18,6 +18,12 @@ jobs:
         with:
           flutter-version: '3.24.0'
 
+      - name: Create Flutter project structure
+        run: |
+          if [ ! -d "android" ]; then
+            flutter create .
+          fi
+
       - name: Install dependencies
         run: flutter pub get
 
