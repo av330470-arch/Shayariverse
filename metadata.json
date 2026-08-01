@@ -1,0 +1,6 @@
+{
+  "name": "ShayariVerse",
+  "description": "Instagram-inspired Shayari social network with AI Shayari Generator, Reels, Feed, Likes, Comments, and Creator Uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
